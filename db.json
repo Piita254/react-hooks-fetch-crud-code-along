@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Manucho",
+      "category": "Dessert",
+      "id": 7,
+      "isInCart": false
+    },
+    {
+      "name": "Davinci",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 31
     }
   ]
 }
